@@ -10,6 +10,6 @@ OKX交易所的新老用户均可通过在OKX官方平台申请API，并在Bitra
 
 未来Bitrader将陆续支持世界排名前列的交易所。
 
-## 交易所接入申请
+## 交易所接入
 
-欢迎各大交易所联系合作，Email：Coperate[@Bitrader.ai](mailto:Openplatform@Bitrader.ai)
+欢迎全球排名前列的交易所联系合作，Email：Cooperate@Bitrader.ai
