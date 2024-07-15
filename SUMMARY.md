@@ -1,10 +1,25 @@
 # Table of contents
 
-## 帮助中心
+## Bitrader介绍 <a href="#bitrader-introduction" id="bitrader-introduction"></a>
 
-* [使用条款](README.md)
-* [返佣用户](bang-zhu-zhong-xin/fan-yong-yong-hu/README.md)
-  * [Untitled](bang-zhu-zhong-xin/fan-yong-yong-hu/untitled.md)
-  * [第一步 多空倍数、仓位设置](bang-zhu-zhong-xin/fan-yong-yong-hu/di-yi-bu-duo-kong-bei-shu-cang-wei-she-zhi.md)
-  * [第二步 选择交易币种](bang-zhu-zhong-xin/fan-yong-yong-hu/di-er-bu-xuan-ze-jiao-yi-bi-zhong.md)
-* [交易流程](bang-zhu-zhong-xin/jiao-yi-liu-cheng.md)
+* [产品介绍](README.md)
+
+## 使用教程 <a href="#tutorial" id="tutorial"></a>
+
+* [Page 2](tutorial/page-2.md)
+
+## 通证经济 <a href="#token-economy" id="token-economy"></a>
+
+* [Page 3](token-economy/page-3.md)
+
+## 用户奖励 <a href="#user-rewards" id="user-rewards"></a>
+
+* [Page 4](user-rewards/page-4.md)
+
+## 节点政策 <a href="#node-policy" id="node-policy"></a>
+
+* [Page 5](node-policy/page-5.md)
+
+## 用户使用条款 <a href="#user-terms-of-use" id="user-terms-of-use"></a>
+
+* [Page 6](user-terms-of-use/page-6.md)
