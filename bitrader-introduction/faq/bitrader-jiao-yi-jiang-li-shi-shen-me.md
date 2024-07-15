@@ -1,4 +1,4 @@
-# Bitrader Token是什么？
+# Bitrader交易奖励是什么？
 
 Bitrader Token是Bitrader平台代币，用于奖励活跃用户。
 
