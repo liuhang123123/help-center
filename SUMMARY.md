@@ -5,6 +5,7 @@
 * [产品介绍](README.md)
 * [Bitrader的价值](bitrader-introduction/the-value-of-bitrader.md)
 * [已接入交易所](bitrader-introduction/accessed-exchanges.md)
+* [常见问题](bitrader-introduction/chang-jian-wen-ti.md)
 
 ## 使用教程 <a href="#tutorial" id="tutorial"></a>
 
