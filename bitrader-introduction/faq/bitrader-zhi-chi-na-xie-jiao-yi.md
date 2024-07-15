@@ -1,8 +1,8 @@
-# 支持哪些交易？
+# Bitrader支持哪些交易？
 
 
 
-## Bitrader支持哪些交易？
+## 支持哪些交易？
 
 Bitrader目前仅支持API授权连接OKX进行加密货币交易，交易币对仅支持OKX USDT本位永续合约。
 

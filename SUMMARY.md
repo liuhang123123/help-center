@@ -11,9 +11,11 @@
   * [是否需要向Bitrader充值？](bitrader-introduction/fqa/xu-yao-xiang-bitrader-chong-bi-ma.md)
   * [Bitrader支持哪些交易？](bitrader-introduction/faq/bitrader-zhi-chi-na-xie-jiao-yi.md)
 
-## 使用教程 <a href="#tutorial" id="tutorial"></a>
+## Bitrader使用教程 <a href="#tutorial" id="tutorial"></a>
 
-* [Page 2](tutorial/page-2.md)
+* [注册与下载](tutorial/zhu-ce-yu-xia-zai.md)
+* [API配置](tutorial/api-pei-zhi.md)
+* [交易流程](tutorial/jiao-yi-liu-cheng.md)
 
 ## 通证经济 <a href="#token-economy" id="token-economy"></a>
 
