@@ -1,4 +1,4 @@
-# 需要向Bitrader充币吗？
+# 是否需要向Bitrader充值？
 
 ## 使用Bitrader交易需要向Bitrader充值加密货币吗？
 
