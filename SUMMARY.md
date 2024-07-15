@@ -18,10 +18,10 @@
   * [交易所API参数获取](tutorial/api-pei-zhi/jiao-yi-suo-api-can-shu-huo-qu.md)
   * [Bitrader API配置](tutorial/api-pei-zhi/bitrader-api-pei-zhi.md)
   * [API安全](tutorial/api-pei-zhi/api-an-quan.md)
-* [交易流程](tutorial/jiao-yi-liu-cheng.md)
-* [STEP1 ：选择币种&下单模式](tutorial/step1-xia-dan-she-zhi/README.md)
-  * [详解下单模式](tutorial/step1-xia-dan-she-zhi/xiang-jie-xia-dan-mo-shi.md)
-* [STEP2：设定盈利百分比](tutorial/step2-xia-dan-ji-kan-pan-mo-shi.md)
+* [交易流程](tutorial/jiao-yi-liu-cheng/README.md)
+  * [STEP1 ：选择币种&下单模式](tutorial/jiao-yi-liu-cheng/step1-xuan-ze-bi-zhong-xia-dan-mo-shi/README.md)
+    * [详解下单模式](tutorial/jiao-yi-liu-cheng/step1-xuan-ze-bi-zhong-xia-dan-mo-shi/xiang-jie-xia-dan-mo-shi.md)
+  * [STEP2：设定盈利百分比](tutorial/jiao-yi-liu-cheng/step2-she-ding-ying-li-bai-fen-bi.md)
 
 ## 通证经济 <a href="#token-economy" id="token-economy"></a>
 
