@@ -25,7 +25,9 @@
 
 ## 通证经济 <a href="#token-economy" id="token-economy"></a>
 
-* [Page 3](token-economy/page-3.md)
+* [Bitrader发行结构](token-economy/bitrader-fa-xing-jie-gou.md)
+* [Bitrader Token应用场景](token-economy/bitrader-token-ying-yong-chang-jing.md)
+* [通证经济模式](token-economy/tong-zheng-jing-ji-mo-shi.md)
 
 ## 用户奖励 <a href="#user-rewards" id="user-rewards"></a>
 
