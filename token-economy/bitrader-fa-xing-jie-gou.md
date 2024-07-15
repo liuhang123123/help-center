@@ -1,8 +1,14 @@
 # Bitrader发行结构
 
-### Bitrader发行结构
+### 发行主链
 
-Bitrader基于BSC发行，其目的是奖励对Bitrader社区有贡献的节点及用户。Bitrader不通过任何渠道发售。
+Bitrader基于BSC发行，目的是奖励对Bitrader社区有贡献的节点及用户。
+
+合约地址：0x70c22f4f1672a9b97ce3D5521ee7f8981CAf65C3。
+
+<mark style="color:purple;">**Bitrader不会进行售卖也不会通过任何渠道发售。**</mark>
+
+## 发行及锁仓
 
 Bitrader总发行量10亿个，占比、锁仓规则、用途如下：
 
@@ -39,3 +45,4 @@ Bitrader总发行量10亿个，占比、锁仓规则、用途如下：
 锁定规则：锁定1年。
 {% endtab %}
 {% endtabs %}
+
