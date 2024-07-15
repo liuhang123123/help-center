@@ -5,9 +5,9 @@
 * [产品介绍](README.md)
 * [Bitrader的价值](bitrader-introduction/the-value-of-bitrader.md)
 * [已接入交易所](bitrader-introduction/accessed-exchanges.md)
-* [FAQ](bitrader-introduction/faq/README.md)
-  * [Bitrader是交易所吗？](bitrader-introduction/faq/bitrader-shi-jiao-yi-suo-ma.md)
-  * [需要向Bitrader充币吗？](bitrader-introduction/faq/xu-yao-xiang-bitrader-chong-bi-ma.md)
+* [FAQ](bitrader-introduction/fqa/README.md)
+  * [Bitrader是交易所吗？](bitrader-introduction/fqa/bitrader-shi-jiao-yi-suo-ma.md)
+  * [需要向Bitrader充币吗？](bitrader-introduction/fqa/xu-yao-xiang-bitrader-chong-bi-ma.md)
   * [支持哪些交易？](bitrader-introduction/faq/zhi-chi-na-xie-jiao-yi.md)
 
 ## 使用教程 <a href="#tutorial" id="tutorial"></a>
