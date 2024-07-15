@@ -3,6 +3,8 @@
 ## Bitrader介绍 <a href="#bitrader-introduction" id="bitrader-introduction"></a>
 
 * [产品介绍](README.md)
+* [Bitrader的价值](bitrader-introduction/the-value-of-bitrader.md)
+* [Bitrader接入的交易所](bitrader-introduction/accessed-exchanges.md)
 
 ## 使用教程 <a href="#tutorial" id="tutorial"></a>
 
