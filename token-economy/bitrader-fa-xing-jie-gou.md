@@ -6,7 +6,7 @@ Bitrader基于BSC发行，目的是奖励对Bitrader社区有贡献的节点及�
 
 合约地址：0x70c22f4f1672a9b97ce3D5521ee7f8981CAf65C3。
 
-<mark style="color:purple;">**Bitrader不会进行售卖也不会通过任何渠道发售。**</mark>
+<mark style="color:blue;">**Bitrader不会进行售卖、不会通过任何渠道发售。**</mark>
 
 ## 发行及锁仓
 

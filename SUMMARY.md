@@ -31,7 +31,9 @@
 
 ## 用户奖励 <a href="#user-rewards" id="user-rewards"></a>
 
-* [Page 4](user-rewards/page-4.md)
+* [空投奖励](user-rewards/user/README.md)
+  * [用户奖励](user-rewards/user/rewards.md)
+  * [贡献者奖励](user-rewards/user/rewards-1.md)
 
 ## 节点政策 <a href="#node-policy" id="node-policy"></a>
 
