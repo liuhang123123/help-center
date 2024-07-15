@@ -19,6 +19,9 @@
   * [Bitrader API配置](tutorial/api-pei-zhi/bitrader-api-pei-zhi.md)
   * [API安全](tutorial/api-pei-zhi/api-an-quan.md)
 * [交易流程](tutorial/jiao-yi-liu-cheng.md)
+* [STEP1 ：下单设置](tutorial/step1-xia-dan-she-zhi/README.md)
+  * [详解下单模式](tutorial/step1-xia-dan-she-zhi/xiang-jie-xia-dan-mo-shi.md)
+* [STEP2：下单及看盘模式](tutorial/step2-xia-dan-ji-kan-pan-mo-shi.md)
 
 ## 通证经济 <a href="#token-economy" id="token-economy"></a>
 
