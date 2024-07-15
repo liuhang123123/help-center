@@ -14,7 +14,10 @@
 ## Bitrader使用教程 <a href="#tutorial" id="tutorial"></a>
 
 * [注册与下载](tutorial/zhu-ce-yu-xia-zai.md)
-* [API配置](tutorial/api-pei-zhi.md)
+* [API配置](tutorial/api-pei-zhi/README.md)
+  * [交易所API参数获取](tutorial/api-pei-zhi/jiao-yi-suo-api-can-shu-huo-qu.md)
+  * [Bitrader API配置](tutorial/api-pei-zhi/bitrader-api-pei-zhi.md)
+  * [API安全](tutorial/api-pei-zhi/api-an-quan.md)
 * [交易流程](tutorial/jiao-yi-liu-cheng.md)
 
 ## 通证经济 <a href="#token-economy" id="token-economy"></a>
