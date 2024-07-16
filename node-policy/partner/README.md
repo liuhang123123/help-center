@@ -2,7 +2,7 @@
 
 ## 什么是节点合伙人
 
-节点合伙人是Bitrader的社区合作伙伴，主要负责社区运营。
+Bitrader由合伙人共创，社区共享收益（社区享有90%收益分配）；节点合伙人是Bitrader的社区合伙人，主要负责社区运营。
 
 {% hint style="info" %}
 符合条件的伙伴可以申请节点合伙人。
@@ -16,6 +16,6 @@
 
 节点合伙人按节点奖励政策享有相关权益。
 
-{% content-ref url="award.md" %}
-[award.md](award.md)
+{% content-ref url="policy.md" %}
+[policy.md](policy.md)
 {% endcontent-ref %}
