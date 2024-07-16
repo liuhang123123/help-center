@@ -46,3 +46,6 @@ Bitrader总发行量10亿个，占比、锁仓规则、用途如下：
 {% endtab %}
 {% endtabs %}
 
+## Pancakeswap
+
+用户获得的Bitrader Token奖励可以通过Pancakeswap售卖，平台将以90%的收益回购Bitrader Token。回购后销毁其中25%，75%分配至节点，由节点再分配给节点所属用户。

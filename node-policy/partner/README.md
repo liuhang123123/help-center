@@ -16,6 +16,6 @@ Bitrader由合伙人共创，社区共享收益（社区享有90%收益分配）
 
 节点合伙人按节点奖励政策享有相关权益。
 
-{% content-ref url="policy.md" %}
-[policy.md](policy.md)
+{% content-ref url="award.md" %}
+[award.md](award.md)
 {% endcontent-ref %}

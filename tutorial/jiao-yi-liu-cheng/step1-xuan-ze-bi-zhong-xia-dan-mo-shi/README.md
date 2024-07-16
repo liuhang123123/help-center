@@ -10,9 +10,9 @@ Bitrader下单模式有三种：限价下单、市价下单、计划订单，可
 
 不论哪种模式，在Bitrader进行一次设定即可完成订单的开仓、平仓委托。
 
-详细介绍见请“详解下单模式”：
+详细介绍见请“下单模式详解”：
 
-{% content-ref url="xiang-jie-xia-dan-mo-shi.md" %}
-[xiang-jie-xia-dan-mo-shi.md](xiang-jie-xia-dan-mo-shi.md)
+{% content-ref url="../../process/place-an-order/order.md" %}
+[order.md](../../process/place-an-order/order.md)
 {% endcontent-ref %}
 
