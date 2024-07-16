@@ -3,7 +3,7 @@
 ## Bitrader介绍 <a href="#bitrader-introduction" id="bitrader-introduction"></a>
 
 * [产品介绍](README.md)
-* [Bitrader运作机制](bitrader-introduction/bitrader-yun-zuo-ji-zhi.md)
+* [Bitrader运作机制](bitrader-introduction/mechanism.md)
 * [Bitrader的价值](bitrader-introduction/the-value-of-bitrader.md)
 * [已接入交易所](bitrader-introduction/accessed-exchanges.md)
 * [FAQ](bitrader-introduction/fqa/README.md)
