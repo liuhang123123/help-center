@@ -37,7 +37,9 @@
 
 ## 节点政策 <a href="#node-policy" id="node-policy"></a>
 
-* [Page 5](node-policy/page-5.md)
+* [节点合伙人](node-policy/partner/README.md)
+  * [节点奖励政策](node-policy/partner/award.md)
+  * [节点合伙人申请](node-policy/partner/apply.md)
 
 ## 用户使用条款 <a href="#user-terms-of-use" id="user-terms-of-use"></a>
 
