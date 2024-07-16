@@ -46,3 +46,7 @@
 ## 用户使用条款 <a href="#user-terms-of-use" id="user-terms-of-use"></a>
 
 * [使用条款](user-terms-of-use/shi-yong-tiao-kuan.md)
+
+## 隐私保护 <a href="#privacy-protection" id="privacy-protection"></a>
+
+* [隐私保护政策](privacy-protection/protection.md)
