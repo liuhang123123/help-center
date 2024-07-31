@@ -1,6 +1,6 @@
 # 奖励政策
 
-<figure><img src="../.gitbook/assets/Group 39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group.png" alt=""><figcaption></figcaption></figure>
 
 ## 奖励政策
 
