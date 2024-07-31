@@ -10,7 +10,7 @@
 
 ## Bitrader Token价值来源
 
-Bitrader平台将收益的90%用于回购为Bitrader Token。
+Bitrader 90%的收益将用于回购Bitrader Token。
 
 ## Bitrader Token锁仓权益
 
