@@ -4,7 +4,7 @@
 
 Bitrader App通过API连接交易所进行加密货币交易，专为USDT币本位永续合约，高频度手动交易用户量身推出。Bitrader 的交易模式尤其适合在极端、波动大的行情下使用，其核心功能是：在用户建仓后，程序会自动按用户的设定委托平仓（当行情价格触达委托价时即可自动平仓）。对追求低风险套利、高频度交易的用户来讲，Bitrader 提供了更好的操作交互。
 
-<figure><img src=".gitbook/assets/Mockups.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Mockups.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 适用理念
 
