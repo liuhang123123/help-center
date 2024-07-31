@@ -1,6 +1,6 @@
 # FAQ
 
-<figure><img src="../../.gitbook/assets/Group 47302 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Group 47302 (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Bitrader是量化软件吗？
 

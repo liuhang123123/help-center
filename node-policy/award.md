@@ -1,6 +1,6 @@
 # 节点奖励政策
 
-<figure><img src="../.gitbook/assets/Group 47302.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 47302 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 节点配赠奖
 

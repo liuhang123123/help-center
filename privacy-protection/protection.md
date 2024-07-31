@@ -28,4 +28,4 @@ Bitrader将明确告知用户需要使用的信息类型，包括但不限于：
 
 Bitrader深知用户隐私保护的重要性，并将始终坚守这一承诺。Bitrader期待与用户建立长期、互信的关系，共同构建一个安全、可靠的网络环境。如有任何关于隐私保护的问题或疑虑，请随时与Bitrader联系：Cooperate@Bitrader.ai。
 
-<figure><img src="../.gitbook/assets/Pagination (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Pagination (1) (1).png" alt=""><figcaption></figcaption></figure>

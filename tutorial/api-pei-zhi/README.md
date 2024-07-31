@@ -7,3 +7,5 @@ API（Application Programming Interface，应用程序编程接口）是一组�
 ## 如何进行Bitrader API配置
 
 目前Bitrader支持API连接OKX，用户首先登录OKX获取API参数，详情参考[“交易所API参数获取”](jiao-yi-suo-api-can-shu-huo-qu.md)。获得API参数后登录Bitrader App进行配置，详情参考“[Bitrader API配置](bitrader-api-pei-zhi.md)”。
+
+<figure><img src="../../.gitbook/assets/Pagination.png" alt=""><figcaption></figcaption></figure>

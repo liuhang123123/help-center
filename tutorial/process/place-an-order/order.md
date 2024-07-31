@@ -1,5 +1,7 @@
 # 下单模式详解
 
+<figure><img src="../../../.gitbook/assets/Group 47302.png" alt="" width="563"><figcaption></figcaption></figure>
+
 ## 限价下单
 
 限价下单模式下，程序将按照交易所币对当前最新标记价格进行委托开仓，直到成交。
