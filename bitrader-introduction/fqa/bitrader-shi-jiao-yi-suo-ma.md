@@ -1,5 +1,7 @@
 # Bitrader是交易所吗？
 
+<figure><img src="../../.gitbook/assets/1180948.png" alt=""><figcaption></figcaption></figure>
+
 ## Bitradder是交易所吗？
 
 Bitrader不是交易所。

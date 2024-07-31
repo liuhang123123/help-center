@@ -1,5 +1,7 @@
 # 节点合伙人
 
+<figure><img src="../.gitbook/assets/Group.png" alt=""><figcaption></figcaption></figure>
+
 ## 什么是节点合伙人
 
 Bitrader由合伙人共创，社区共享收益（社区享有90%收益分配）；节点合伙人是Bitrader的社区合伙人，主要负责社区运营。

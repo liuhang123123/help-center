@@ -1,5 +1,7 @@
 # Bitrader发行结构
 
+<figure><img src="../.gitbook/assets/Croods Chart.png" alt=""><figcaption></figcaption></figure>
+
 ### 发行主链
 
 Bitrader基于BSC发行，目的是奖励对Bitrader社区有贡献的节点及用户。

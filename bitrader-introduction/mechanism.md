@@ -23,3 +23,5 @@ Bitrader是由社区合伙人共创、共同推动建设的平台。
 ## 回馈用户
 
 回馈社区用户是Bitrader推出的出发点，详情请见通证经济模式介绍。
+
+<figure><img src="../.gitbook/assets/header.png" alt=""><figcaption></figcaption></figure>

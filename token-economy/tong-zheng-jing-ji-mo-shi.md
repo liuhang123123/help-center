@@ -26,4 +26,4 @@ Bitrader平台的收益来自于交易所经纪商手续费收益。
 
 
 
-<figure><img src="../.gitbook/assets/Group 39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 39 (1).png" alt=""><figcaption></figcaption></figure>

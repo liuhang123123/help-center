@@ -1,5 +1,7 @@
 # Bitrader Token应用场景
 
+<figure><img src="../.gitbook/assets/new2-19-Compressed.png" alt="" width="563"><figcaption></figcaption></figure>
+
 ## Bitrader Token使用场景
 
 用户使用Bitrader App（通过API）连接交易所在免费使用工具的同时，可赚取到额外“使用”收益。
