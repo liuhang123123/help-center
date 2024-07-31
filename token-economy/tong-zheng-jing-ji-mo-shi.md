@@ -23,3 +23,7 @@ Bitrader平台的收益来自于交易所经纪商手续费收益。
 ## 用户收益
 
 用户收益将由合作节点进行分配，基于\[节点总入账]基数按设定的比例进行分配（系统按节点设置自动分配）。
+
+
+
+<figure><img src="../.gitbook/assets/Group 39.png" alt=""><figcaption></figcaption></figure>
