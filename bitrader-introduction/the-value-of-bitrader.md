@@ -1,5 +1,7 @@
 # Bitrader的价值
 
+<figure><img src="../.gitbook/assets/Thumbnail.png" alt=""><figcaption></figcaption></figure>
+
 ## 让交易更稳健
 
 Make transactions more stable——让交易更稳健，这是Bitrader推出的初衷。
