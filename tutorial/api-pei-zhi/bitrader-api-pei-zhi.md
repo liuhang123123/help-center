@@ -12,4 +12,4 @@
 
 ### 扫码填写
 
-在OKX创建API完成后，通过Bitrader API配置界面点击扫码，Bitrader即可扫码自动填写“APIKey、SecretKey”，最后再手动输入“Passphrase”，点击保存即可。
+在OKX创建API完成后，在Bitrader API配置界面点击“扫码”按钮，Bitrader可扫码自动填写“APIKey、SecretKey”，最后手动输入“Passphrase”，保存即可。

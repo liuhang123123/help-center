@@ -22,7 +22,7 @@
 * [交易流程](tutorial/jiao-yi-liu-cheng/README.md)
   * [STEP1 ：选择币种&下单模式](tutorial/jiao-yi-liu-cheng/step1-xuan-ze-bi-zhong-xia-dan-mo-shi/README.md)
     * [下单模式详解](tutorial/process/place-an-order/order.md)
-  * [STEP2：设定盈利百分比](tutorial/jiao-yi-liu-cheng/step2-she-ding-ying-li-bai-fen-bi.md)
+  * [STEP2：套利利润设置](tutorial/jiao-yi-liu-cheng/step2-she-ding-ying-li-bai-fen-bi.md)
   * [STEP3：下单&看盘](tutorial/process/step3-xia-dan-kan-pan.md)
 
 ## 通证经济 <a href="#token-economy" id="token-economy"></a>

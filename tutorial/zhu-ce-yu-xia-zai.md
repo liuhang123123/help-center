@@ -6,4 +6,4 @@
 
 ## Bitrader App下载&安装
 
-在注册页面或官网（https://www.bitrader.ai）可以获得APP下载链接，下载、安装完成后即可进行交易所API配置。
+在注册页面或官网（https://www.bitrader.ai）可以下载Bitrader App。下载、安装完成后需登录Bitrader 配置交易所API。
