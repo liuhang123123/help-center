@@ -1,6 +1,6 @@
 # 节点合伙人
 
-<figure><img src="../.gitbook/assets/Group.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 什么是节点合伙人
 

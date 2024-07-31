@@ -1,5 +1,7 @@
 # 使用条款
 
+<figure><img src="../.gitbook/assets/Group4.png" alt=""><figcaption></figcaption></figure>
+
 ## 服务内容
 
 1. 本工具（以下简称“工具”）由Bitrader提供，旨在为用户提供更快捷的加密货币交易工具；功能包括但不限于：提供快捷交易、依托交易所提供加密货币行情信息、执行用户的操作指令。

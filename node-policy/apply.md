@@ -1,5 +1,7 @@
 # 节点合伙人申请
 
+<figure><img src="../.gitbook/assets/Croods Friends.png" alt=""><figcaption></figcaption></figure>
+
 ## 节点合伙人申请条件
 
 #### Bitrader是由合伙人共创的平台，欢迎行业精英、平台加入Bitrader社区

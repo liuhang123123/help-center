@@ -12,4 +12,4 @@ OKX交易所的新老用户均可通过在OKX官方平台申请API，并在Bitra
 
 欢迎全球排名前列的交易所联系合作，Email：Cooperate@Bitrader.ai
 
-<figure><img src="../.gitbook/assets/Pagination (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Pagination (1) (1).png" alt=""><figcaption></figcaption></figure>

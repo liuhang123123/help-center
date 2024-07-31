@@ -1,5 +1,7 @@
 # 隐私保护政策
 
+
+
 ## 用户隐私保护承诺
 
 Bitrader深知用户隐私信息的重要性，Bitrader承诺严格保护用户隐私，采取对应措施，保护用户的隐私权益。以下是Bitrader对用户隐私保护的承诺：
@@ -25,3 +27,5 @@ Bitrader将仅在用户同意的范围内，使用用户授权的信息。Bitrad
 Bitrader将明确告知用户需要使用的信息类型，包括但不限于：邮箱地址、用户授权的API信息、交易记录等。
 
 Bitrader深知用户隐私保护的重要性，并将始终坚守这一承诺。Bitrader期待与用户建立长期、互信的关系，共同构建一个安全、可靠的网络环境。如有任何关于隐私保护的问题或疑虑，请随时与Bitrader联系：Cooperate@Bitrader.ai。
+
+<figure><img src="../.gitbook/assets/Pagination (1).png" alt=""><figcaption></figcaption></figure>

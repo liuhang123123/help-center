@@ -1,5 +1,7 @@
 # 贡献者奖励
 
+<figure><img src="../../.gitbook/assets/Group (1).png" alt=""><figcaption></figcaption></figure>
+
 ## **贡献者奖励**
 
 通过宣传或教育为 Bitrader 生态系统做出贡献的个人、开发者、研究人员、社区和公司。
