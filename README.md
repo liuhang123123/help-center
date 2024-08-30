@@ -32,8 +32,10 @@ Bitrader Pro版为用户提供了更多的收入能力，包含两大功能：
 
 包括“邀请奖励、交易奖励（包括自己和邀请的人）、节点奖励（如果是节点）、平台奖励”等。
 
+<figure><img src=".gitbook/assets/Group 47326.png" alt=""><figcaption><p>交易奖励</p></figcaption></figure>
+
 **节点申请/节点收益管理功能：**
 
 用户可以通过申请节点获得更多收益，并通过节点管理功能管理自己社区、节点带来的收益。
 
-<figure><img src=".gitbook/assets/Group 47321.png" alt=""><figcaption><p>节点权益</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Group 47325.png" alt=""><figcaption><p>节点权益</p></figcaption></figure>
