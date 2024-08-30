@@ -20,4 +20,4 @@ Bitrader“套利设定”，省去用户在开仓后单独再委托平仓，让
 
 ## 平台代币价值
 
-Bitrader Token作为平台生态币的升值空间。
+平台生态币Bitrader Token具备的升值空间。
