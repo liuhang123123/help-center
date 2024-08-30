@@ -34,7 +34,7 @@
 
 ## 用户奖励 <a href="#user-rewards" id="user-rewards"></a>
 
-* [奖励政策](user-rewards/page-4.md)
+* [Bitrader Pro奖励](user-rewards/page-4.md)
   * [用户奖励](user-rewards/user/rewards.md)
   * [贡献者奖励](user-rewards/user/rewards-1.md)
 
