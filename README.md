@@ -21,11 +21,11 @@ Bitrader App尤其适用于“高频、高杠杆”交易的用户。Bitrader �
 ## Bitrader Pro
 
 {% hint style="info" %}
-Bitrader Pro版为用户提供了更多的收入能力，包含两大功能：
+<mark style="background-color:purple;">**`Bitrader Pro版为用户提供了更多的收入能力，包含两大功能：`**</mark>
 
-1、返佣、奖励功能；
+<mark style="background-color:purple;">**`1、返佣、奖励功能；`**</mark>
 
-2、节点申请/节点收益管理功能；
+<mark style="background-color:purple;">**`2、节点申请/节点收益管理功能；`**</mark>
 {% endhint %}
 
 **返佣、奖励功能：**
