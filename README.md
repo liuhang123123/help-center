@@ -32,4 +32,4 @@ Bitrader Pro版为用户提供了更多的收入能力，包含两大功能：
 
 用户可以通过申请节点获得更多收益，并通过节点管理功能管理自己社区、节点带来的收益。
 
-<figure><img src=".gitbook/assets/Group 47320.png" alt=""><figcaption><p>节点权益</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Group 47321.png" alt=""><figcaption><p>节点权益</p></figcaption></figure>
