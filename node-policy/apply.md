@@ -2,6 +2,14 @@
 
 <figure><img src="../.gitbook/assets/Croods Friends.png" alt=""><figcaption></figcaption></figure>
 
+## 节点申请
+
+成为节点的两种方式：
+
+1、满足节点合伙人申请条件可以直接申请。
+
+2、通过邀请50个交易用户自动获得节点资格。
+
 ## 节点合伙人申请条件
 
 #### Bitrader是由合伙人共创的平台，欢迎行业精英、平台加入Bitrader社区
@@ -19,7 +27,7 @@
 
 STEP 1：社区合伙人准备申请材料；
 
-STEP 2：合伙人发送申请邮件至Cooperate@bitrader.ai；
+STEP 2：通过Bitrader App提交申请材料；
 
 STEP 3：与Bitrader沟通并确认合作计划；确立合作并由Bitrader官方公布合作关系；
 
@@ -33,4 +41,4 @@ STEP 4：向合伙人账户划币（Bitrader Token）；
 
 3、联系方式、Telegram账号；
 
-请发送至Cooperate@bitrader.ai。
+4、所在区域；
