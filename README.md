@@ -1,6 +1,6 @@
 # 产品介绍
 
-## Bitrader介绍
+## Bitrader
 
 Bitrader App通过API连接OKX交易所进行加密货币交易，为USDT币本位永续合约，高频度手动交易用户而推出，带来全新“简洁、省心”的交易体验。
 
@@ -10,7 +10,7 @@ Bitrader 的交易模式尤其适合在极端、波动大的行情下使用，�
 
 <figure><img src=".gitbook/assets/Group 47322.png" alt=""><figcaption><p>Bitrader主界面</p></figcaption></figure>
 
-## 适用理念
+## 理念
 
 加密货币二级市场投资按“周期和交易频度风格”通常可分为：按“比特币大周期投资（通常1\~3年）、日线波段投资（周期通常几周至若干月）或分钟线至小时线的高频度交易”。
 
@@ -18,7 +18,7 @@ Bitrader专为“分钟线至小时线的高频度交易”而推出，帮助追
 
 Bitrader App尤其适用于“高频、高杠杆”交易的用户。Bitrader 可以按用户设定的盈利百分比目标，自动委托平仓（在开仓成功后），对于追求0.3%-3%（低比例）盈利空间的合约交易用户极大的提升了套利能力。
 
-## Bitrader Pro版
+## Bitrader Pro
 
 {% hint style="info" %}
 Bitrader Pro版为用户提供了更多的收入能力，包含两大功能：
