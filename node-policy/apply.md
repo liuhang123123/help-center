@@ -39,6 +39,5 @@ STEP 4：向合伙人账户划币（Bitrader Token）；
 
 2、社区运营计划，期望的合作模式；
 
-3、联系方式、Telegram账号；
+3、Email、Telegram账号、所在区域；
 
-4、所在区域；
