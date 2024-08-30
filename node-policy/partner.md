@@ -4,7 +4,7 @@
 
 ## 什么是节点合伙人
 
-在系统升级为Bitrader Pro版后，可以看到节点功能。如何获得Bitrader Pro版？
+在系统升级为Bitrader Pro版后，节点申请及管理功能即可自动开通。如何获得Bitrader Pro版？
 
 Bitrader由合伙人共创，社区节点、用户收益共享（享有90%收益分配）；节点合伙人是Bitrader的社区合伙人，主要负责社区运营。
 
