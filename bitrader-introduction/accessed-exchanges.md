@@ -2,7 +2,7 @@
 
 ## Bitrader已接入的交易所
 
-Bitrader目前接入了OKX交易所。
+Bitrader目前已接入OKX交易所。
 
 OKX交易所的新老用户均可通过在OKX官方平台申请API，并在Bitrader App配置后使用Bitrader 进行加密货币套利交易（针对USDT本位永续合约）。
 
