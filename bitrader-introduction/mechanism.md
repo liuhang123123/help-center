@@ -6,9 +6,9 @@ Bitrader是由社区合伙人共创、共同推动建设的平台。
 
 ### 运营愿景
 
-服务百万交易用户，让用户交易更稳健。
+服务百万交易用户，让交易更稳健。
 
-### 运作理念
+### 产品理念
 
 用户享受Bitrader使用便利的同时，共享Bitrader Token收益。
 
@@ -22,6 +22,6 @@ Bitrader是由社区合伙人共创、共同推动建设的平台。
 
 ## 回馈用户
 
-回馈社区用户是Bitrader推出的出发点，详情请见通证经济模式介绍。
+回馈社区用户是Bitrader设立的出发点，详情请见通证经济模式介绍。
 
 <figure><img src="../.gitbook/assets/header.png" alt=""><figcaption></figcaption></figure>
