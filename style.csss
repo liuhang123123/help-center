@@ -1,0 +1,11 @@
+/* 示例：更改字体颜色和背景色 */
+body {
+  color: #333;
+  background-color: #f8f8f8;
+}
+ 
+/* 示例：修改标题样式 */
+h1, h2, h3, h4, h5, h6 {
+  color: #000;
+  font-weight: bold;
+}
