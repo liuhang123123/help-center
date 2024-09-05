@@ -4,7 +4,7 @@
 
 ### 发行主链
 
-Bitrader基于BSC发行，唯一目的是奖励对Bitrader社区有贡献的节点及用户。
+Bitrader基于BSC发行，发行目的是奖励对Bitrader社区有贡献的节点及用户。
 
 合约地址：0x70c22f4f1672a9b97ce3D5521ee7f8981CAf65C3。
 
@@ -52,4 +52,4 @@ Bitrader总发行量10亿个，占比、锁仓规则、用途如下：
 
 用户获得的Bitrader Token奖励可以在Pancakeswap交易。
 
-平台产生的收益中90%将用于在Pancakeswap回购Bitrader Token。回购后，其中25%的Bitrader Token将销毁，75%分配至节点，再由节点再分配给节点所属用户。
+平台产生的收益的90%将用于在Pancakeswap回购Bitrader Token。回购后，其中25%的Bitrader Token将销毁，75%分配至节点，再由节点再分配给节点所属用户。
