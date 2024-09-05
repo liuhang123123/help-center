@@ -16,8 +16,8 @@ Bitrader是由社区合伙人共创、共同推动建设的平台。
 
 平台将90%收益用于Bitrader Token回购，回购后销毁其中25%，75%分配至节点，由节点再分配给节点所属用户。详情请见通证经济模式：
 
-{% content-ref url="../token-economy/tong-zheng-jing-ji-mo-shi.md" %}
-[tong-zheng-jing-ji-mo-shi.md](../token-economy/tong-zheng-jing-ji-mo-shi.md)
+{% content-ref url="../token-economy/m.md" %}
+[m.md](../token-economy/m.md)
 {% endcontent-ref %}
 
 ## 回馈用户

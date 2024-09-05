@@ -15,22 +15,22 @@
 
 ## Bitrader使用教程 <a href="#tutorial" id="tutorial"></a>
 
-* [注册与下载](tutorial/zhu-ce-yu-xia-zai.md)
-* [API配置](tutorial/api-pei-zhi/README.md)
-  * [交易所API参数获取](tutorial/api-pei-zhi/jiao-yi-suo-api-can-shu-huo-qu.md)
-  * [Bitrader API配置](tutorial/api-pei-zhi/bitrader-api-pei-zhi.md)
-  * [API安全](tutorial/api-pei-zhi/api-an-quan.md)
-* [交易流程](tutorial/jiao-yi-liu-cheng/README.md)
-  * [STEP1 ：选择币种&下单模式](tutorial/jiao-yi-liu-cheng/step1-xuan-ze-bi-zhong-xia-dan-mo-shi/README.md)
-    * [下单模式详解](tutorial/process/place-an-order/order.md)
-  * [STEP2：套利利润设置](tutorial/jiao-yi-liu-cheng/step2-she-ding-ying-li-bai-fen-bi.md)
-  * [STEP3：下单&看盘](tutorial/process/step3-xia-dan-kan-pan.md)
+* [注册与下载](tutorial/reg.md)
+* [API配置](tutorial/api-setting/README.md)
+  * [交易所API参数获取](tutorial/api-setting/api1.md)
+  * [Bitrader API配置](tutorial/api-setting/api2.md)
+  * [API安全](tutorial/api-setting/api3.md)
+* [交易流程](tutorial/p/README.md)
+  * [STEP1 ：选择币种&下单模式](tutorial/p/p1/README.md)
+    * [下单模式详解](tutorial/p/p1/order.md)
+  * [STEP2：套利利润设置](tutorial/p/p2.md)
+  * [STEP3：下单&看盘](tutorial/p/p3.md)
 
 ## 通证经济 <a href="#token-economy" id="token-economy"></a>
 
-* [Bitrader发行结构](token-economy/bitrader-fa-xing-jie-gou.md)
-* [Bitrader Token应用场景](token-economy/bitrader-token-ying-yong-chang-jing.md)
-* [通证经济模式](token-economy/tong-zheng-jing-ji-mo-shi.md)
+* [Bitrader发行结构](token-economy/i.md)
+* [Bitrader Token应用场景](token-economy/s.md)
+* [通证经济模式](token-economy/m.md)
 
 ## 用户奖励 <a href="#user-rewards" id="user-rewards"></a>
 
@@ -41,12 +41,12 @@
 ## 节点政策 <a href="#node-policy" id="node-policy"></a>
 
 * [节点合伙人](node-policy/partner.md)
-* [节点奖励政策](node-policy/award.md)
+* [节点奖励政策](node-policy/reward.md)
 * [节点合伙人申请](node-policy/apply.md)
 
 ## 用户使用条款 <a href="#user-terms-of-use" id="user-terms-of-use"></a>
 
-* [使用条款](user-terms-of-use/shi-yong-tiao-kuan.md)
+* [使用条款](user-terms-of-use/use.md)
 
 ## 隐私保护 <a href="#privacy-protection" id="privacy-protection"></a>
 

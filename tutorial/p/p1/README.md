@@ -12,8 +12,8 @@ Bitrader有三种下单模式：限价下单、市价下单、计划订单，用
 
 详细介绍见请“下单模式详解”：
 
-{% content-ref url="../../process/place-an-order/order.md" %}
-[order.md](../../process/place-an-order/order.md)
+{% content-ref url="order.md" %}
+[order.md](order.md)
 {% endcontent-ref %}
 
 <figure><img src="../../../.gitbook/assets/Hands Example.png" alt="" width="375"><figcaption></figcaption></figure>
