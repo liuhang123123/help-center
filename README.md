@@ -15,7 +15,7 @@ Bitrader 的交易模式尤其适合在极端、波动大的行情下使用，�
 
 Bitrader通过API对接OKX交易所进行加密货币交易。
 
-<mark style="color:blue;">**用户的加密货币资产存在于用户所在交易所（OKX）账户，并由用户自主管理。**</mark>Bitrader不会管理用户任何加密货币资产。Bitrader先进的交易理念，为用户提供新颖的交易模式、更多的盈利能力[^1]。[^2]Bitrader通过接受用户的交易操作向OKX发送交易指令，所有的交易撮合发生在OKX交易所。
+<mark style="color:blue;">**用户的加密货币资产存在于用户所在交易所（OKX）账户，并由用户自主管理。**</mark>Bitrader不会管理用户任何加密货币资产。Bitrader先进的交易理念，为用户提供新颖的交易模式、更多盈利能力[^1]。[^2]Bitrader通过接受用户的交易操作向OKX发送交易指令，所有的交易撮合发生在OKX交易所。
 
 “没有OKX交易账户” 及 “180天以上未使用的OKX老账户” <mark style="color:red;">**请务必通过该链接注册**</mark>（新用户）<mark style="color:red;">**或登录激活**</mark>（老用户）（可获得Bitrader平台币奖励[^3]）<mark style="color:red;">**：**</mark>[<mark style="color:red;">**https://www.okx.com/join/2851712**</mark>](https://www.okx.com/join/2851712)
 
