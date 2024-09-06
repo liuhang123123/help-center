@@ -13,9 +13,7 @@ Bitrader 的交易模式尤其适合在极端、波动大的行情下使用，�
 {% hint style="info" %}
 ## Bitrader是如何进行交易的？
 
-Bitrader通过API对接OKX交易所进行加密货币交易。
-
-<mark style="color:blue;">**用户的加密货币资产存在于用户所在交易所（OKX）账户，并由用户自主管理。**</mark>Bitrader不会管理用户任何加密货币资产。Bitrader先进的交易理念，为用户提供新颖的交易模式、更多盈利能力。[^1]Bitrader通过接受用户交易操作向OKX发送交易指令，所有的交易撮合发生在OKX交易所。
+Bitrader通过API对接OKX交易所进行加密货币交易。<mark style="color:blue;">**用户的加密货币资产存在于用户所在交易所（OKX）账户，并由用户自主管理。Bitrader不会管理用户任何加密货币资产。**</mark>Bitrader以先进的交易理念，为用户提供新颖的交易模式、更多盈利能力。[^1]Bitrader通过接受用户交易操作向OKX发送交易指令，所有的交易撮合发生在OKX交易所。
 {% endhint %}
 
 {% hint style="success" %}
