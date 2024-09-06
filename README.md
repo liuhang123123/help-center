@@ -15,7 +15,7 @@ Bitrader 的交易模式尤其适合在极端、波动大的行情下使用，�
 
 Bitrader通过API对接OKX交易所进行加密货币交易。
 
-<mark style="color:blue;">**用户的加密货币资产存在于用户所在交易所（OKX）账户，并由用户自主管理**</mark>，Bitrader不会管理用户任何加密货币资产。Bitrader为用户提供新颖的交易模式、更多的盈利能力，通过接受用户的交易操作向OKX发送交易指令，所有的交易撮合发生在OKX交易所。
+<mark style="color:blue;">**用户的加密货币资产存在于用户所在交易所（OKX）账户，并由用户自主管理。**</mark>Bitrader不会管理用户任何加密货币资产。Bitrader为用户提供新颖的交易模式、更多的盈利能力[^1]，通过接受用户的交易操作向OKX发送交易指令，所有的交易撮合发生在OKX交易所。
 {% endhint %}
 
 {% hint style="success" %}
@@ -53,3 +53,5 @@ Bitrader App尤其适用于“高频、高杠杆”交易的用户。Bitrader �
 用户可以通过申请节点获得更多收益，并通过节点管理功能管理自己社区、节点带来的收益。
 
 <figure><img src=".gitbook/assets/Group 47325.png" alt=""><figcaption><p>节点权益</p></figcaption></figure>
+
+[^1]: 
