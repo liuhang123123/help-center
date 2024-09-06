@@ -2,13 +2,27 @@
 
 ## Bitrader
 
-Bitrader App通过API连接OKX交易所进行加密货币交易，为USDT币本位永续合约，高频度手动交易用户而推出，带来全新“简洁、省心”的交易体验。
+Bitrader App通过API连接OKX交易所进行加密货币交易，为USDT币本位永续合约，高频度手动交易用户而推出，为用户带来全新“简洁、省心”的交易体验。
 
 Bitrader 的交易模式尤其适合在极端、波动大的行情下使用，核心功能是：在用户建仓后，程序会自动按用户设定的委托值平仓（当行情价格触达委托价时即可自动平仓）。对追求低风险套利、高频度交易的用户，Bitrader 提供了实用且友好的交互操作，帮助用户更稳健的交易。
 
 在用户免费升级至Bitrader Pro版后，还可获得丰厚Bitrader Token奖励。
 
 <figure><img src=".gitbook/assets/Group 47322.png" alt=""><figcaption><p>Bitrader主界面</p></figcaption></figure>
+
+{% hint style="info" %}
+## Bitrader是如何进行交易的？
+
+Bitrader通过API对接OKX交易所进行加密货币交易。
+
+<mark style="color:blue;">**用户的加密货币资产存在于用户所在交易所（OKX）账户，并由用户自主管理**</mark>，Bitrader不会管理用户任何加密货币资产。Bitrader为用户提供新颖的交易模式、更多的盈利能力，通过接受用户的交易操作向OKX发送交易指令，所有的交易撮合发生在OKX交易所。
+{% endhint %}
+
+{% hint style="success" %}
+## 如何开始交易？
+
+用户在Bitrader App完成API（用户在OKX申请的API）配置后即可使用Bitrader进行加密货币交易（目前仅支持OKX USDT本位永续合约交易币对）。
+{% endhint %}
 
 ## 理念
 
