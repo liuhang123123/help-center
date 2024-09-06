@@ -6,7 +6,7 @@ Bitrader App通过API连接OKX交易所进行加密货币交易，为USDT币本�
 
 Bitrader 的交易模式尤其适合在极端、波动大的行情下使用，核心功能是：在用户建仓后，程序会自动按用户设定的委托值平仓（当行情价格触达委托价时即可自动平仓）。对追求低风险套利、高频度交易的用户，Bitrader 提供了实用且友好的交互操作，帮助用户更稳健的交易。
 
-在用户免费升级至Bitrader Pro版后，还可获得丰厚Bitrader Token奖励。
+用户免费升级至Bitrader Pro版，可获得丰厚Bitrader Token奖励。
 
 <figure><img src=".gitbook/assets/Group 47322.png" alt=""><figcaption><p>Bitrader主界面</p></figcaption></figure>
 
@@ -21,7 +21,7 @@ Bitrader通过API对接OKX交易所进行加密货币交易。<mark style="color
 
 “没有OKX交易账户” 及 “180天以上未使用的OKX老账户” <mark style="color:red;">**请务必通过该链接注册**</mark>（新用户）<mark style="color:red;">**或登录激活**</mark>（老用户）<mark style="color:red;">**：**</mark>[<mark style="color:red;">**https://www.okx.com/join/2851712**</mark>](https://www.okx.com/join/2851712)
 
-用户在Bitrader App完成API（用户在OKX申请的API）配置后即可使用Bitrader进行加密货币交易（目前仅支持OKX USDT本位永续合约交易币对）。请参考：[OKX交易所API参数获取](tutorial/api-setting/api1.md) & [API配置说明](tutorial/api-setting/api2.md#bitrader-api-pei-zhi)。
+用户在Bitrader App完成API（用户在OKX申请的API）配置即可使用Bitrader进行加密货币交易（目前仅支持OKX USDT本位永续合约交易币对）。请参考：[OKX交易所API参数获取](tutorial/api-setting/api1.md) & [API配置说明](tutorial/api-setting/api2.md#bitrader-api-pei-zhi)。
 {% endhint %}
 
 ## 理念
