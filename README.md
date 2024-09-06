@@ -21,7 +21,7 @@ Bitrader通过API对接OKX交易所进行加密货币交易。
 {% hint style="success" %}
 ## 如何开始交易？
 
-“没有OKX交易账户” 及 “180天以上未使用的OKX老账户” <mark style="color:red;">**请务必通过该链接注册**</mark>（新用户）<mark style="color:red;">**或登录激活**</mark>（老用户）<mark style="color:red;">**：**</mark>[<mark style="color:red;">**https://www.okx.com/join/2851712**</mark>](https://www.okx.com/join/2851712)<mark style="color:red;">**。**</mark>
+“没有OKX交易账户” 及 “180天以上未使用的OKX老账户” <mark style="color:red;">**请务必通过该链接注册**</mark>（新用户）<mark style="color:red;">**或登录激活**</mark>（老用户）<mark style="color:red;">**：**</mark>[<mark style="color:red;">**https://www.okx.com/join/2851712**</mark>](https://www.okx.com/join/2851712)
 
 用户在Bitrader App完成API（用户在OKX申请的API）配置后即可使用Bitrader进行加密货币交易（目前仅支持OKX USDT本位永续合约交易币对）。请参考：[OKX交易所API参数获取](tutorial/api-setting/api1.md) & [API配置说明](tutorial/api-setting/api2.md#bitrader-api-pei-zhi)。
 {% endhint %}
