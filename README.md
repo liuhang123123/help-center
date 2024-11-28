@@ -6,8 +6,6 @@ Bitrader App通过API连接OKX交易所进行加密货币交易，为“USDT币�
 
 Bitrader 的交易模式尤其适合在极端、波动大的行情下使用，核心功能是：在用户建仓后，程序会自动按用户设定的委托值平仓（当行情价格触达委托价时即可自动平仓）。对追求低风险套利、高频度交易的用户，Bitrader 提供了实用且友好的交互操作，帮助用户更稳健地交易。
 
-用户免费升级至Bitrader Pro版，可获得丰厚Bitrader Token奖励。
-
 <figure><img src=".gitbook/assets/Group 47322.png" alt=""><figcaption><p>Bitrader主界面</p></figcaption></figure>
 
 {% hint style="info" %}
