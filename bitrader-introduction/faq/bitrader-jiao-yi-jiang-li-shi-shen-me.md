@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Bitrader交易奖励是什么？
 
 <figure><img src="../../.gitbook/assets/Cryptocurrency-Compressed.png" alt="" width="563"><figcaption></figcaption></figure>

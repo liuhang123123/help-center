@@ -11,7 +11,7 @@ Bitrader 的交易模式尤其适合在极端、波动大的行情下使用，�
 {% hint style="info" %}
 ## Bitrader是如何进行交易的？
 
-Bitrader通过API对接OKX交易所进行加密货币交易。<mark style="color:blue;">**用户的加密货币资产存在于用户所在交易所（OKX）账户，并由用户自主管理。Bitrader不会管理用户任何加密货币资产。**</mark>Bitrader以先进的交易理念，为用户提供新颖的交易模式、更多盈利能力。[^1]Bitrader通过接受用户交易操作向OKX发送交易指令，所有的交易撮合发生在OKX交易所。
+Bitrader通过API对接OKX交易所进行加密货币交易。<mark style="color:blue;">**用户的加密货币资产存在于用户所在交易所（OKX）账户，并由用户自主管理。Bitrader不会管理用户任何加密货币资产。**</mark>Bitrader以先进的交易理念，为用户提供新颖的交易模式、更强盈利能力。[^1]Bitrader通过接受用户交易操作向OKX发送交易指令，所有的交易撮合发生在OKX交易所。
 {% endhint %}
 
 {% hint style="success" %}
@@ -29,27 +29,5 @@ Bitrader通过API对接OKX交易所进行加密货币交易。<mark style="color
 Bitrader专为“分钟线至小时线的高频度交易”而推出，帮助追求低风险、稳健交易的用户实现快捷手动套利交易。
 
 Bitrader App尤其适用于“高频、高杠杆”交易的用户。Bitrader 可以按用户设定的盈利百分比目标，自动委托平仓（在开仓成功后），对于追求0.3%-3%（低比例）盈利空间的合约交易用户极大的提升了套利能力。
-
-## Bitrader Pro
-
-{% hint style="info" %}
-**`Bitrader Pro版为用户提供了更多的收入能力，包含两大功能：`**
-
-**`1、返佣、奖励功能；`**
-
-**`2、节点申请/节点收益管理功能；`**
-{% endhint %}
-
-**返佣、奖励功能：**
-
-包括“邀请奖励、交易奖励（包括自己和邀请的人）、节点奖励（如果是节点）、平台奖励”等。
-
-<figure><img src=".gitbook/assets/Group 47326.png" alt=""><figcaption><p>交易奖励</p></figcaption></figure>
-
-**节点申请/节点收益管理功能：**
-
-用户可以通过申请节点获得更多收益，并通过节点管理功能管理自己社区、节点带来的收益。
-
-<figure><img src=".gitbook/assets/Group 47325.png" alt=""><figcaption><p>节点权益</p></figcaption></figure>
 
 [^1]: 便捷的交易交互 & Bitrader平台币奖励

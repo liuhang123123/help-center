@@ -2,7 +2,7 @@
 
 ## Bitrader新用户注册
 
-新用户需要通过Bitrader官方H5链接注册,可以向节点或推荐人获取Bitrader注册链接。
+新用户需要通过Bitrader官方H5链接注册。
 
 ## Bitrader App下载&安装
 

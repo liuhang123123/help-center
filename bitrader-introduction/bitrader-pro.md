@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Bitrader Pro
 
 ## 标准版

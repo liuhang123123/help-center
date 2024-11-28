@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Bitrader运作机制
 
 ## 社区合伙人共创
